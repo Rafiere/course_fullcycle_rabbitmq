@@ -1,0 +1,1 @@
+Repository for "RabbitMQ" course, from FullCycle
